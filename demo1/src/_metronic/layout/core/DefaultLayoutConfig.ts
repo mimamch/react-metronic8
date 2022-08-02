@@ -28,7 +28,7 @@ export const DefaultLayoutConfig: ILayout = {
   },
   aside: {
     display: true,
-    theme: 'dark',
+    theme: 'light',
     menu: 'main',
     fixed: true,
     minimized: false,
